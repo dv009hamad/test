@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DBSampleActivity!</string>
+    <string name="app_name">DBSample</string>
+    <string name="id">商品ID</string>
+    <string name="name">商品名</string>
+    <string name="price">価格</string>
+    <string name="unit">個数:</string>
+    <string name="insert">登録</string>
+    <string name="update">更新</string>
+    <string name="delete">削除</string>
+    <string name="view">表示</string>
+    <string-array name="listArray">
+        <item >テスト１</item>
+        <item >テスト２</item>
+        <item >テスト３</item>
+    </string-array>
+
+</resources>
